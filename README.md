@@ -1,1 +1,1 @@
-# language-Translator-in-Pyhton
+# language-Translator-in-Python
